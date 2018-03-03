@@ -1,0 +1,9 @@
+Building NerveCoinBeta
+
+See doc/readme-qt.rst for instructions on building NerveCoinBeta-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NerveCoinBeta.
+
+See doc/build-*.txt for instructions on building nervecoinbetad,
+the intended-for-services, no-graphical-interface, reference
+implementation of NerveCoinBeta.
